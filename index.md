@@ -96,33 +96,34 @@ The chapters of the thesis is available @ Shodhganga -> [Click Here](https://sho
 
 ### MOOC Accomplishments
 
-1. AWS S3 Basics
-2. Mastering Digital Twins
-3. Introduction to Clinical Data
-4. Fundamentals of Machine Learning for Healthcar
-5. Programming for Everybody (Getting Started with Python)
-6. Introduction to Scripting in Python Specialization
-7. Python Data Analysis
-8. Python Data Representations
-9. Python Data Visualization
-10. Python Programming Essentials
-11. Case Studies in Personalized Medicine
-12. Drug Discovery
-13. Analyzing Big Data with SQL
-14. Big Data, Genes, and Medicine
-15. Foundations for Big Data Analysis with SQL (with Honors)
-16. Introduction to Psychology
-17. Managing Big Data in Clusters and Cloud Storage
-18. Modern Big Data Analysis with SQL Specialization
-19. Convolutional Neural Networks
-20. Data Science Methodology
-21. Machine Learning
-22. Python for Data Science and AI
-23. Python for Data Science, AI & Development
-24. IBM Digital Badges
-25. Natural Language Processing
-26. Tools for Data Science
-27. What is Data Science?  
+
+>1. AWS S3 Basics
+>2. Mastering Digital Twins
+>3. Introduction to Clinical Data
+>4. Fundamentals of Machine Learning for Healthcar
+>5. Programming for Everybody (Getting Started with Python)
+>6. Introduction to Scripting in Python Specialization
+>7. Python Data Analysis
+>8. Python Data Representations
+>9. Python Data Visualization
+>10. Python Programming Essentials
+>11. Case Studies in Personalized Medicine
+>12. Drug Discovery
+>13. Analyzing Big Data with SQL
+>14. Big Data, Genes, and Medicine
+>15. Foundations for Big Data Analysis with SQL (with Honors)
+>16. Introduction to Psychology
+>17. Managing Big Data in Clusters and Cloud Storage
+>18. Modern Big Data Analysis with SQL Specialization
+>19. Convolutional Neural Networks
+>20. Data Science Methodology
+>21. Machine Learning
+>22. Python for Data Science and AI
+>23. Python for Data Science, AI & Development
+>24. IBM Digital Badges
+>25. Natural Language Processing
+>26. Tools for Data Science
+>27. What is Data Science?  
 
 Link for all the Certificates are available -> [Click Here](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/details/certifications/)  
 
