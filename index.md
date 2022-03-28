@@ -5,21 +5,14 @@
 
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.  
 
-LinkedIn : <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)  
-
-ResearchGate : <img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [Scopus Profile](https://www.researchgate.net/profile/Karthik-Sekaran)
-
-ORCID :  <img src="https://sorse.github.io/assets/images/orcid.svg" width="20" height="20" /> [Scopus Profile](https://orcid.org/0000-0002-1969-7632)
-
-Scopus : <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
-
-Google Scholar : <img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="20" height="20" /> [Scopus Profile](https://scholar.google.com/citations?user=Kst7LyEAAAAJ&hl=en)
-
-Publons : <img src="https://publons.com/static/images/logos/square/blue_white_shadow.png" width="20" height="20" /> [Scopus Profile](https://publons.com/researcher/2898980/karthik-sekaran/)
-
-GitHub : <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png" width="20" height="20" /> [Scopus Profile](https://github.com/karthiksekaran)
-
-StackOverflow : <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="20" height="20" /> [Scopus Profile](https://stackoverflow.com/users/7727686/karthik-sekaran)
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
+<img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [ResearchGate](https://www.researchgate.net/profile/Karthik-Sekaran)
+<img src="https://sorse.github.io/assets/images/orcid.svg" width="20" height="20" /> [ORCID](https://orcid.org/0000-0002-1969-7632)
+<img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
+<img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="20" height="20" /> [Google Scholar](https://scholar.google.com/citations?user=Kst7LyEAAAAJ&hl=en)
+<img src="https://publons.com/static/images/logos/square/blue_white_shadow.png" width="20" height="20" /> [Publons](https://publons.com/researcher/2898980/karthik-sekaran/)
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png" width="20" height="20" /> [GitHub](https://github.com/karthiksekaran)
+<img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="20" height="20" /> [StackOverflow](https://stackoverflow.com/users/7727686/karthik-sekaran)
 
 I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, Pinterest or anything not listed above) <img src="https://png2png.com/wp-content/uploads/2021/08/Smiley-png-3.png" width = 20px height = 20px>
 
