@@ -18,7 +18,7 @@ My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5
 > Natural Language Processing  
 > Predictive Analytics  
 > Neural Networks  
-> Time Series Forecasting and Modelling
+> Time Series Forecasting and Modelling  
 > Software Engineering
 
 ### Programming/Tool Skills
