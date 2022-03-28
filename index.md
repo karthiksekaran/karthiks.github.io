@@ -40,30 +40,43 @@ My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5
 
 * **Predicting drug responsiveness with deep learning from the effects on gene expression of obsessive–compulsive disorder affected cases**  
 Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S014036641931552X)  
+
 * **Predicting autism spectrum disorder from associative genetic markers of phenotypic groups using machine learning**  
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12652-020-02155-z)  
+
 * **Predicting bipolar disorder and schizophrenia based on non-overlapping genetic phenotypes using deep neural network** 
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12065-019-00346-y)  
+
 * **Breast cancer classification using deep neural networks**
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-10-6680-1_12)  
+
 * **A regularization-based feature scoring criterion on candidate genetic marker selection of sporadic motor neuron disease**  
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-15-5679-1_30)  
+
 * **A Survey on Machine Learning Approaches in Gene Expression Classification in Modelling Computational Diagnostic System for Complex Diseases**  
 Manuscript Link : [Click Here](https://www.researchgate.net/profile/Karthik-Sekaran/publication/331638460_A_survey_on_machine_learning_approaches_in_gene_expression_classification_in_modelling_computational_diagnostic_system_for_complex_diseases/links/5cb212b2299bf1209764015e/A-survey-on-machine-learning-approaches-in-gene-expression-classification-in-modelling-computational-diagnostic-system-for-complex-diseases.pdf)  
+
 * **Prediction of lipopolysaccharides simulation responsiveness on gene expression profiles of major depression disorder affected cases using machine learning**  
 Manuscript Link : [Click Here](https://www.researchgate.net/profile/Karthik-Sekaran/publication/359208825_Prediction_Of_Lipopolysaccharides_Simulation_Responsiveness_On_Gene_Expression_Profiles_Of_Major_Depression_Disorder_Affected_Cases_Using_Machine_Learning/links/622ed57e97401151d218754c/Prediction-Of-Lipopolysaccharides-Simulation-Responsiveness-On-Gene-Expression-Profiles-Of-Major-Depression-Disorder-Affected-Cases-Using-Machine-Learning.pdf)  
+
 * **Diagnostic gene biomarker selection for alzheimer’s classification using machine learning**  
 Manuscript Link : [Click Here](https://www.ijitee.org/wp-content/uploads/papers/v8i12/L33721081219.pdf)  
+
 * **Predicting drug responsiveness by citalopram induced pathway regulations and biomarker discovery in lymphoblastoid cell lines from depression affected individuals**  
 Manuscript Link : [Click Here](https://ieeexplore.ieee.org/abstract/document/9682274/)  
+
 * **Effective prediction of bitcoin price using wolf search algorithm and bidirectional LSTM on internet of things data**  
 Manuscript Link : [Click Here](https://www.inderscienceonline.com/doi/abs/10.1504/IJSSE.2021.121473)  
+
 * **Personalized Content Extraction and Text Classification Using Effective Web Scraping Techniques**  
 Manuscript Link : [Click Here](https://www.igi-global.com/article/personalized-content-extraction-and-text-classification-using-effective-web-scraping-techniques/240663)  
+
 * **A Survey on Preventing DDoS Attack in Cloud Environment**  
 Manuscript Link : [Click Here](https://www.researchgate.net/publication/332401982_A_SURVEY_ON_PREVENTING_DDOS_ATTACK_IN_CLOUD_ENVIRONMENT)  
+
 * **Lung Cancer Classification with Novel Gene Biomarkers using Machine Learning**  
 Manuscript Link :  *publication link will be added soon.*  
+
 * **Interpreting the factors of Employee Attrition using Explainable AI**  
 Manuscript Link :  *publication link will be added soon.*
 
