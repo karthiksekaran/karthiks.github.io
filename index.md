@@ -2,7 +2,7 @@
 
 ### About me
 
-Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.
+Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.  
 
 My LinkedIn Page: <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/) 
 Scopus is the largest abstract and citation database of peer-reviewed literature – scientific journals, books and conference proceedings.
