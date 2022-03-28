@@ -29,7 +29,8 @@ My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5
 > RapidMiner  
 > Git  
 > Markdown  
-> Web Programming (HTML, CSS, SCSS, JS (few frameworks), PHP)  
+> Web Programming (HTML, CSS, SCSS, JS (few frameworks), PHP, Bootstrap)  
+> Progressive Web Apps  
 > LaTeX  
 > C/C++ (Average Proficiency)  
 > SQL  
