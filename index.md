@@ -5,7 +5,21 @@
 
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.  
 
-My LinkedIn Page: <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)  
+LinkedIn : <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)  
+
+ResearchGate : 
+
+ORCID : 
+
+Scopus :
+
+Google Scholar :
+
+Publons : 
+
+GitHub : 
+
+StackOverflow : 
 
 ### Scopus is the largest abstract and citation database of peer-reviewed literature – scientific journals, books and conference proceedings.
 
@@ -103,9 +117,6 @@ Certificate Link : [Click Here](https://drive.google.com/file/d/1zTI77mV6BhjhcPm
 
 * **Candidate Diagnostic Biomarker Selection from the Effects on Gene Expressions of Complex Neurological Disorders Using Machine Learning**  
 The chapters of the thesis is available @ Shodhganga -> [Click Here](https://shodhganga.inflibnet.ac.in/handle/10603/352153)
-
-
-
 
 ### MOOC Accomplishments
 
