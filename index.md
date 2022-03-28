@@ -11,19 +11,15 @@ ResearchGate :
 
 ORCID : 
 
-Scopus :
+Scopus : <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
 
-Google Scholar :
+Google Scholar : 
 
 Publons : 
 
 GitHub : 
 
 StackOverflow : 
-
-### Scopus is the largest abstract and citation database of peer-reviewed literature – scientific journals, books and conference proceedings.
-
-My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
 
 ### Subject Skills
 
