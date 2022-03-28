@@ -47,10 +47,10 @@ Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12652-
 * **Predicting bipolar disorder and schizophrenia based on non-overlapping genetic phenotypes using deep neural network** 
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12065-019-00346-y)  
 
-* **Breast cancer classification using deep neural networks**
+* **Breast cancer classification using deep neural networks (Book Chapter)**
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-10-6680-1_12)  
 
-* **A regularization-based feature scoring criterion on candidate genetic marker selection of sporadic motor neuron disease**  
+* **A regularization-based feature scoring criterion on candidate genetic marker selection of sporadic motor neuron disease (Conference Paper, Springer)**  
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-15-5679-1_30)  
 
 * **A Survey on Machine Learning Approaches in Gene Expression Classification in Modelling Computational Diagnostic System for Complex Diseases**  
@@ -62,7 +62,7 @@ Manuscript Link : [Click Here](https://www.researchgate.net/profile/Karthik-Seka
 * **Diagnostic gene biomarker selection for alzheimer’s classification using machine learning**  
 Manuscript Link : [Click Here](https://www.ijitee.org/wp-content/uploads/papers/v8i12/L33721081219.pdf)  
 
-* **Predicting drug responsiveness by citalopram induced pathway regulations and biomarker discovery in lymphoblastoid cell lines from depression affected individuals**  
+* **Predicting drug responsiveness by citalopram induced pathway regulations and biomarker discovery in lymphoblastoid cell lines from depression affected individuals (Conference Paper, IEEE)**  
 Manuscript Link : [Click Here](https://ieeexplore.ieee.org/abstract/document/9682274/)  
 
 * **Effective prediction of bitcoin price using wolf search algorithm and bidirectional LSTM on internet of things data**  
@@ -77,7 +77,7 @@ Manuscript Link : [Click Here](https://www.researchgate.net/publication/33240198
 * **Lung Cancer Classification with Novel Gene Biomarkers using Machine Learning**  
 Manuscript Link :  *publication link will be added soon.*  
 
-* **Interpreting the factors of Employee Attrition using Explainable AI**  
+* **Interpreting the factors of Employee Attrition using Explainable AI (Conference Paper, IEEE)**  
 Manuscript Link :  *publication link will be added soon.*
 
 ### Patent
@@ -85,3 +85,47 @@ Manuscript Link :  *publication link will be added soon.*
 * **A SYSTEM AND METHOD FOR PREDICTING BIPOLAR DISORDER AND SCHIZOPHRENIA BASED ON NON-OVERLAPPING GENETIC PHENOTYPES**  
 Find more details -> [Click Here](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do)  
 Certificate Link : [Click Here](https://drive.google.com/file/d/1zTI77mV6BhjhcPmqidgX4bBLDhUBAcmx/view?usp=sharing)
+
+### Doctoral Thesis
+
+* **Candidate Diagnostic Biomarker Selection from the Effects on Gene Expressions of Complex Neurological Disorders Using Machine Learning**  
+The chapters of the thesis is available @ Shodhganga -> [Click Here](https://shodhganga.inflibnet.ac.in/handle/10603/352153)
+
+
+
+
+### MOOC Accomplishments
+
+1. AWS S3 Basics
+2. Mastering Digital Twins
+3. Introduction to Clinical Data
+4. Fundamentals of Machine Learning for Healthcar
+5. Programming for Everybody (Getting Started with Python)
+6. Introduction to Scripting in Python Specialization
+7. Python Data Analysis
+8. Python Data Representations
+9. Python Data Visualization
+10. Python Programming Essentials
+11. Case Studies in Personalized Medicine
+12. Drug Discovery
+13. Analyzing Big Data with SQL
+14. Big Data, Genes, and Medicine
+15. Foundations for Big Data Analysis with SQL (with Honors)
+16. Introduction to Psychology
+17. Managing Big Data in Clusters and Cloud Storage
+18. Modern Big Data Analysis with SQL Specialization
+19. Convolutional Neural Networks
+20. Data Science Methodology
+21. Machine Learning
+22. Python for Data Science and AI
+23. Python for Data Science, AI & Development
+24. IBM Digital Badges
+25. Natural Language Processing
+26. Tools for Data Science
+27. What is Data Science?  
+
+Link for all the Certificates are available -> [Click Here](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/details/certifications/)  
+
+### Work Experience
+
+
