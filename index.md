@@ -173,3 +173,7 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > Vellore Institute of Technology · Full-time
 > Dec 2017 - Oct 2020 · 2 yrs 11 mos
 > Vellore, Tamil Nadu, India
+
+### Infographic Resume 
+
+-> [Click Here](https://drive.google.com/file/d/16aWw5bXJAi1Z35pMc-yof8QxKpOuIB4v/view?usp=sharing)
