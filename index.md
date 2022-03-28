@@ -39,12 +39,14 @@ My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5
 > SPSS  
 > Sigma Plot  
 > ggplot2  
+> 
 > Tools for Bioinformatics
-  * GeneMania
-  * gProfiler
-  * Bioconductor
-  * GEO2R
-  * Cytoscape
+> 
+>    * GeneMania  
+>    * gProfiler  
+>    * Bioconductor  
+>    * GEO2R  
+>    * Cytoscape  
 
 ### Paper Publications
 
