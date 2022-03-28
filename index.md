@@ -168,7 +168,7 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > Sep 2020 - Feb 2021 · 6 mos
 > Bengaluru, Karnataka, India
 
-> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_100_100/0/1519933404766e=1656547200&v=beta&t=FkmnQkhVdCzGkivf8KuyRM6jXAUjIbRkb6WHRyzW-6E" width = 20px height = 20px>
+> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_100_100/0/1519933404766?e=1656547200&v=beta&t=FkmnQkhVdCzGkivf8KuyRM6jXAUjIbRkb6WHRyzW-6E" width = 20px height = 20px>
 > Staff Research Associate
 > Vellore Institute of Technology · Full-time
 > Dec 2017 - Oct 2020 · 2 yrs 11 mos
