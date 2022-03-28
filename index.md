@@ -7,19 +7,19 @@ Research fellow with cognitive analytical ability, skilled in Machine Learning, 
 
 LinkedIn : <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)  
 
-ResearchGate : 
+ResearchGate : <img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [Scopus Profile](https://www.researchgate.net/profile/Karthik-Sekaran)
 
-ORCID : 
+ORCID :  <img src="https://sorse.github.io/assets/images/orcid.svg" width="20" height="20" /> [Scopus Profile](https://orcid.org/0000-0002-1969-7632)
 
 Scopus : <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5673e406c6979143615582d5/images/56e7d19390336026d87181c6/file-iOvnUfCXWD.png" width="20" height="20" /> [Scopus Profile](https://www.scopus.com/authid/detail.uri?authorId=57208071216)
 
-Google Scholar : 
+Google Scholar : <img src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" width="20" height="20" /> [Scopus Profile](https://scholar.google.com/citations?user=Kst7LyEAAAAJ&hl=en)
 
-Publons : 
+Publons : <img src="https://publons.com/static/images/logos/square/blue_white_shadow.png" width="20" height="20" /> [Scopus Profile](https://publons.com/researcher/2898980/karthik-sekaran/)
 
-GitHub : 
+GitHub : <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png" width="20" height="20" /> [Scopus Profile](https://github.com/karthiksekaran)
 
-StackOverflow : 
+StackOverflow : <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="20" height="20" /> [Scopus Profile](https://stackoverflow.com/users/7727686/karthik-sekaran)
 
 ### Subject Skills
 
