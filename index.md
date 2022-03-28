@@ -13,10 +13,12 @@ My Scopus Profile: <img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/5
 ### Subject Skills
 
 > Machine Learning  
-> Bioinformatics (Biomarker Discovery and Expression Profiling)
-> Statistics
-> Natural Language Processing
-> Predictive Analytics
+> Bioinformatics (Biomarker Discovery and Expression Profiling)  
+> Statistics  
+> Natural Language Processing  
+> Predictive Analytics  
+> Neural Networks  
+> Time Series Forecasting and Modelling
 
 ### Programming/Tool Skills
 
