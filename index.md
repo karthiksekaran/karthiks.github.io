@@ -151,4 +151,22 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 
 ### Work Experience
 
+> Senior Software Engineer
+> MulticoreWare Inc · Full-time
+> Mar 2022 - Present · 1 mo
+> Chennai, Tamil Nadu, India
 
+> Assistant Professor
+> Saveetha Engineering College · Full-time
+> Apr 2021 - Mar 2022 · 1 yr
+> Chennai, Tamil Nadu, India
+
+> Assistant Professor
+> Jain (Deemed-to-be University) · Full-time
+> Sep 2020 - Feb 2021 · 6 mos
+> Bengaluru, Karnataka, India
+
+> Staff Research Associate
+> Vellore Institute of Technology · Full-time
+> Dec 2017 - Oct 2020 · 2 yrs 11 mos
+> Vellore, Tamil Nadu, India
