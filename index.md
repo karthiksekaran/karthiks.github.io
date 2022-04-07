@@ -45,6 +45,11 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > SPSS  
 > Sigma Plot  
 > ggplot2  
+> IBM Rational Rose 
+> StarUML and ArgoUML
+> MS Visio
+> IBM Watson Studio/Jupyter/Google Colab
+> Docker
 > 
 > Tools for Bioinformatics
 > 
@@ -98,6 +103,9 @@ Manuscript Link :  *publication link will be added soon.*
 * **Interpreting the factors of Employee Attrition using Explainable AI (Conference Paper, IEEE)**  
 Manuscript Link :  *publication link will be added soon.*
 
+* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
+Manuscript Link : *Will be added soon*
+
 ### Patent
 
 * **A SYSTEM AND METHOD FOR PREDICTING BIPOLAR DISORDER AND SCHIZOPHRENIA BASED ON NON-OVERLAPPING GENETIC PHENOTYPES**  
@@ -108,6 +116,8 @@ Certificate Link : [Click Here](https://drive.google.com/file/d/1zTI77mV6BhjhcPm
 
 * **Candidate Diagnostic Biomarker Selection from the Effects on Gene Expressions of Complex Neurological Disorders Using Machine Learning**  
 The chapters of the thesis is available @ Shodhganga -> [Click Here](https://shodhganga.inflibnet.ac.in/handle/10603/352153)
+
+### Awards and Appreciations
 
 ### MOOC Accomplishments
 
