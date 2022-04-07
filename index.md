@@ -45,11 +45,11 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > SPSS  
 > Sigma Plot  
 > ggplot2  
-> IBM Rational Rose 
-> StarUML and ArgoUML
-> MS Visio
+> IBM Rational Rose   
+> StarUML and ArgoUML    
+> MS Visio  
 > IBM Watson Studio/Jupyter/Google Colab
-> Docker
+> Docker  
 > 
 > Tools for Bioinformatics
 > 
