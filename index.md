@@ -48,7 +48,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > IBM Rational Rose   
 > StarUML and ArgoUML    
 > MS Visio  
-> IBM Watson Studio/Jupyter/Google Colab
+> IBM Watson Studio/Jupyter/Google Colab  
 > Docker  
 > 
 > Tools for Bioinformatics
@@ -118,6 +118,10 @@ Certificate Link : [Click Here](https://drive.google.com/file/d/1zTI77mV6BhjhcPm
 The chapters of the thesis is available @ Shodhganga -> [Click Here](https://shodhganga.inflibnet.ac.in/handle/10603/352153)
 
 ### Awards and Appreciations
+
+* Best Resesarch Poster Presentation Award  -> [Link for the Research Poster](https://drive.google.com/file/d/1Sro1e3XWM-SUACrBzeYg0UCtJXBHQo88/view?usp=sharing)
+
+* Guest Speaker - Five Days FDP on Java Programming- organized by SRM University on “Deep Learning in Image-Based Healthcare Applications”, in Chennai from 10-Jan-2020 to 14-Jan-2020.  
 
 ### MOOC Accomplishments
 
