@@ -123,6 +123,11 @@ The chapters of the thesis is available @ Shodhganga -> [Click Here](https://sho
 
 * Guest Speaker - Five Days FDP on Java Programming- organized by SRM University on “Deep Learning in Image-Based Healthcare Applications”, in Chennai from 10-Jan-2020 to 14-Jan-2020.  
 
+### Online Coding Platforms  
+
+* HackerRank Python Certificate  -> [Click Here](https://www.hackerrank.com/certificates/9a6a75a317f0)
+* HackerRank SQL Certificate  
+
 ### MOOC Accomplishments
 
 
