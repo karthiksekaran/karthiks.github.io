@@ -127,6 +127,7 @@ The chapters of the thesis is available @ Shodhganga -> [Click Here](https://sho
 
 * HackerRank Python Certificate  -> [Click Here](https://www.hackerrank.com/certificates/9a6a75a317f0)
 * HackerRank SQL Certificate  
+* HackerRank Badges - > [Click Here](https://www.hackerrank.com/karthiksofficia1?hr_r=1)
 
 ### MOOC Accomplishments
 
