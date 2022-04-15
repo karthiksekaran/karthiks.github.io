@@ -163,11 +163,6 @@ The chapters of the thesis is available @ Shodhganga -> [Click Here](https://sho
 Link for all the Certificates are available -> [Click Here](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/details/certifications/)  
 
 ### Work Experience
-> <img src="https://media-exp1.licdn.com/dms/image/C510BAQEmGY9GKelitg/company-logo_100_100/0/1564386059890?e=1656547200&v=beta&t=wm-O-soQEZijuLS3wBQXLpRoA25iwssUNMzf9vvi2qU" width = 20px height = 20px>
-> Senior Software Engineer
-> MulticoreWare Inc · Full-time
-> Mar 2022 - Present · 1 mo
-> Chennai, Tamil Nadu, India
 
 > <img src="https://media-exp1.licdn.com/dms/image/C560BAQEMCO6tDM19WQ/company-logo_100_100/0/1604467435881?e=1656547200&v=beta&t=9NFaFY-Wg1gQuzkt5pMUDdMhr_C_uMZYCnjrJRuttEA" width = 20px height = 20px>
 > Assistant Professor
