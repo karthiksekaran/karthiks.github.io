@@ -31,16 +31,18 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 
 > Python  
 > R  
+> Flask  
+> SQL  
+> Tableau  
+> Git  
+> Selenium (Web Automation using Python)  
 > WEKA  
 > RapidMiner  
-> Git  
 > Markdown  
 > Web Programming (HTML, CSS, SCSS, JS (few frameworks), PHP, Bootstrap)  
 > Progressive Web Apps  
 > LaTeX  
 > C/C++ (Average Proficiency)  
-> SQL  
-> Selenium (Web Automation using Python)  
 > Tableau  
 > SPSS  
 > Sigma Plot  
@@ -53,6 +55,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > 
 > Tools for Bioinformatics
 > 
+>    * NCBI BLAST  
 >    * GeneMania  
 >    * gProfiler  
 >    * Bioconductor  
