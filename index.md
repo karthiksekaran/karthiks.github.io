@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile
 
 ### About me
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQET7Qevdg-_JA/profile-displayphoto-shrink_800_800/0/1625160635000?e=2147483647&v=beta&t=l4L-QIuQobIhVYTYVQj7w_F2MVblPAQG757J1yX1RgE" width = 200px height = 200px>
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQET7Qevdg-_JA/profile-displayphoto-shrink_800_800/0/1625160635000?e=2147483647&v=beta&t=l4L-QIuQobIhVYTYVQj7w_F2MVblPAQG757J1yX1RgE](https://media-exp1.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1660176000&v=beta&t=QkhKHT9eBv6xiDi-zQ3waMldIIMB2jMg2S_J9mU7s1M" width = 200px height = 200px>
 
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.  
 
