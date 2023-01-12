@@ -21,7 +21,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > Machine Learning  
 > Bioinformatics (16S rRNA microbiome modelling, Next Generation Sequencing (WGS/WES), Transcriptomics (Microarray, DNA Methylation, RNA-Seq, scRNA-Seq, currently building pipelines for scRNA and spatial transcriptomics)  
 > Network Pharmacology  
-> 2D - QSAR Modelling, Drug Virtual Screening
+> 2D - QSAR Modelling, Drug Virtual Screening  
 > Statistics  
 > Natural Language Processing  
 > Predictive Analytics  
