@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile
 
 ### About me
-<img src = "https://media-exp1.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_400_400/0/1653451261944?e=1666224000&v=beta&t=4SvEDxJi4ZxUzG3V9RZhZAO7fSrbqiSCy-9_EW2k45I](https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1678924800&v=beta&t=AgH0OY0N8eg2s2qQAx3hAKZrYLheWA0LTVcRgc6Pt-U)" width = 200px height = 200px>
+<img src = "https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1678924800&v=beta&t=AgH0OY0N8eg2s2qQAx3hAKZrYLheWA0LTVcRgc6Pt-U" width = 200px height = 200px>
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Bioinformatics, Computational Genomics, Computational Drug Discovery and Gene Expression Profiling.  
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
