@@ -18,7 +18,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 ### Subject Skills
 
 > Machine Learning  
-> Bioinformatics (16S rRNA microbiome modelling, Next Generation Sequencing (WGS/WES), Transcriptomics (Single)  
+> Bioinformatics (16S rRNA microbiome modelling, Next Generation Sequencing (WGS/WES), Transcriptomics (Microarray, DNA Methylation, RNA-Seq, scRNA-Seq, currently building pipelines for scRNA and spatial transcriptomics)  
 > Statistics  
 > Natural Language Processing  
 > Predictive Analytics  
@@ -38,7 +38,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 > WEKA  
 > RapidMiner  
 > Markdown  
-> Web Programming (HTML, CSS, SCSS, JS (few frameworks), PHP, Bootstrap)  
+> Web Programming (HTML, CSS, SCSS, JS (few frameworks), PHP, Bootstrap) 
 > Progressive Web Apps  
 > LaTeX  
 > C/C++ (Average Proficiency)  
@@ -64,6 +64,12 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 >    * MOTHUR  
 >    * Microbiome Libraries (MicrobiomeAnalyst, microbiome, miaViz, microbiomeProfiler, animalcules and more)
 >    * Seurat (R) and ScanPy (Python) Single Cell RNA Sequence Downstream Analysis
+
+### Database Development (75% Completed)
+
+Carotenoid Cleavage Dioxygenases (CCD) Database 
+>   * Developed using Responsive Bootstrap Template, JavaScript Libaries, PHP, MySQL Database, and CSS
+>   * Database Link: [Click Here] http://ccd-db.vit.ac.in/home/index.html
 
 ### Paper Publications
 
