@@ -18,7 +18,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 ### Subject Skills
 
 > Machine Learning  
-> Bioinformatics (Biomarker Discovery and Expression Profiling)  
+> Bioinformatics (16S rRNA microbiome modelling, Next Generation Sequencing (WGS/WES), Transcriptomics (Single)  
 > Statistics  
 > Natural Language Processing  
 > Predictive Analytics  
@@ -60,8 +60,18 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 >    * Bioconductor  
 >    * GEO2R  
 >    * Cytoscape  
+>    * QIIME2  
+>    * MOTHUR  
+>    * Microbiome Libraries (MicrobiomeAnalyst, microbiome, miaViz, microbiomeProfiler, animalcules and more)
+>    * Seurat (R) and ScanPy (Python) Single Cell RNA Sequence Downstream Analysis
 
 ### Paper Publications
+
+* **Molecular modeling of C1-inhibitor as SARS-CoV-2 target identified from the immune signatures of multiple tissues: An integrated bioinformatics study**  
+Manuscript Link : [Click Here](https://onlinelibrary.wiley.com/doi/10.1002/cbf.3769)
+
+* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
+Manuscript Link : [Click Here](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221252)
 
 * **Predicting drug responsiveness with deep learning from the effects on gene expression of obsessive–compulsive disorder affected cases**  
 Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S014036641931552X)  
@@ -74,6 +84,9 @@ Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12065-
 
 * **Breast cancer classification using deep neural networks (Book Chapter)**
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-10-6680-1_12)  
+
+* **Lung Cancer Classification and Model Interpretation with Novel Gene Biomarkers using Explainable Artificial Intelligence**
+Manuscript Link : [Click Here](https://ieeexplore.ieee.org/document/9990843)
 
 * **A regularization-based feature scoring criterion on candidate genetic marker selection of sporadic motor neuron disease (Conference Paper, Springer)**  
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-15-5679-1_30)  
@@ -90,6 +103,9 @@ Manuscript Link : [Click Here](https://www.ijitee.org/wp-content/uploads/papers/
 * **Predicting drug responsiveness by citalopram induced pathway regulations and biomarker discovery in lymphoblastoid cell lines from depression affected individuals (Conference Paper, IEEE)**  
 Manuscript Link : [Click Here](https://ieeexplore.ieee.org/abstract/document/9682274/)  
 
+* **Interpreting the factors of Employee Attrition using Explainable AI (Conference Paper, IEEE)**  
+Manuscript Link : [Click Here](https://ieeexplore.ieee.org/document/9765067)
+
 * **Effective prediction of bitcoin price using wolf search algorithm and bidirectional LSTM on internet of things data**  
 Manuscript Link : [Click Here](https://www.inderscienceonline.com/doi/abs/10.1504/IJSSE.2021.121473)  
 
@@ -98,15 +114,6 @@ Manuscript Link : [Click Here](https://www.igi-global.com/article/personalized-c
 
 * **A Survey on Preventing DDoS Attack in Cloud Environment**  
 Manuscript Link : [Click Here](https://www.researchgate.net/publication/332401982_A_SURVEY_ON_PREVENTING_DDOS_ATTACK_IN_CLOUD_ENVIRONMENT)  
-
-* **Lung Cancer Classification with Novel Gene Biomarkers using Machine Learning**  
-Manuscript Link :  *publication link will be added soon.*  
-
-* **Interpreting the factors of Employee Attrition using Explainable AI (Conference Paper, IEEE)**  
-Manuscript Link :  *publication link will be added soon.*
-
-* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
-Manuscript Link : *Will be added soon*
 
 ### Patent
 
