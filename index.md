@@ -70,7 +70,7 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 
 Carotenoid Cleavage Dioxygenases (CCD) Database 
 >   * Developed using Responsive Bootstrap Template, JavaScript Libaries, PHP, MySQL Database, and CSS
->   * Database Link: [Click Here] http://ccd-db.vit.ac.in/home/index.html
+>   * Database Link: [Click Here](http://ccd-db.vit.ac.in/home/index.html)
 
 ### Paper Publications
 
