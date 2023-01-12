@@ -77,22 +77,22 @@ Carotenoid Cleavage Dioxygenases (CCD) Database
 * **Molecular modeling of C1-inhibitor as SARS-CoV-2 target identified from the immune signatures of multiple tissues: An integrated bioinformatics study**  
 Manuscript Link : [Click Here](https://onlinelibrary.wiley.com/doi/10.1002/cbf.3769)
 
-* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
-Manuscript Link : [Click Here](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221252)
-
 * **Predicting drug responsiveness with deep learning from the effects on gene expression of obsessive–compulsive disorder affected cases**  
 Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S014036641931552X)  
 
 * **Predicting autism spectrum disorder from associative genetic markers of phenotypic groups using machine learning**  
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12652-020-02155-z)  
 
-* **Predicting bipolar disorder and schizophrenia based on non-overlapping genetic phenotypes using deep neural network** 
+* **Predicting bipolar disorder and schizophrenia based on non-overlapping genetic phenotypes using deep neural network**  
 Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s12065-019-00346-y)  
 
-* **Breast cancer classification using deep neural networks (Book Chapter)**
+* **Predicting Rheumatoid Arthritis from the Biomarkers of Clinical Trials using Improved Harmony Search with Adaptive Neuro-Fuzzy Inference System**  
+Manuscript Link : [Click Here](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs221252)
+
+* **Breast cancer classification using deep neural networks (Book Chapter)**  
 Manuscript Link : [Click Here](https://link.springer.com/chapter/10.1007/978-981-10-6680-1_12)  
 
-* **Lung Cancer Classification and Model Interpretation with Novel Gene Biomarkers using Explainable Artificial Intelligence**
+* **Lung Cancer Classification and Model Interpretation with Novel Gene Biomarkers using Explainable Artificial Intelligence**  
 Manuscript Link : [Click Here](https://ieeexplore.ieee.org/document/9990843)
 
 * **A regularization-based feature scoring criterion on candidate genetic marker selection of sporadic motor neuron disease (Conference Paper, Springer)**  
