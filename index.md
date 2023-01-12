@@ -3,7 +3,7 @@
 ### About me
 <img src = "https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1678924800&v=beta&t=AgH0OY0N8eg2s2qQAx3hAKZrYLheWA0LTVcRgc6Pt-U" width = 200px height = 200px>
 
-Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacogenomics, Microbiome Studies and Multi-OMICS modelling.
+Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacoinformatics, Microbiome Studies and Multi-OMICS modelling.
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15" height="15" /> [LinkedIn](https://www.linkedin.com/in/karthik-sekaran-5b82aa106/)
 <img src="https://www.uwo.ca/web_standards/img/social/svg/icn-researchgate.svg" width="20" height="20" /> [ResearchGate](https://www.researchgate.net/profile/Karthik-Sekaran)
@@ -20,6 +20,8 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 
 > Machine Learning  
 > Bioinformatics (16S rRNA microbiome modelling, Next Generation Sequencing (WGS/WES), Transcriptomics (Microarray, DNA Methylation, RNA-Seq, scRNA-Seq, currently building pipelines for scRNA and spatial transcriptomics)  
+> Network Pharmacology  
+> 2D - QSAR Modelling, Drug Virtual Screening
 > Statistics  
 > Natural Language Processing  
 > Predictive Analytics  
@@ -29,8 +31,8 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 
 ### Programming/Tool Skills
 
-> Python  
-> R  
+> Python (Deep Learning Libraries - Tensorflow, Caffe and Machine Learning Libraries - scikit-learn, numpy, pandas, matplotlib, biopython and more)  
+> R  (Bioinformatics Libraries - Bioconductor packages for biological interpretation - DESeq2, GEO2R, WGCNA, dada2, affy, limma, seurat, monocle and more)  
 > Flask  
 > SQL  
 > Tableau  
@@ -61,16 +63,21 @@ I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, 
 >    * Bioconductor  
 >    * GEO2R  
 >    * Cytoscape  
+>    * AutoDock Tools (ADT) for Molecular Docking  
+>    * PyMoL  
+>    * Biovia Discovery Studio  
+>    * RDKIT for Cheminformatics  
 >    * QIIME2  
 >    * MOTHUR  
->    * Microbiome Libraries (MicrobiomeAnalyst, microbiome, miaViz, microbiomeProfiler, animalcules and more)
->    * Seurat (R) and ScanPy (Python) Single Cell RNA Sequence Downstream Analysis
+>    * Galaxy NGS Web Server  
+>    * Microbiome Libraries (MicrobiomeAnalyst, microbiome, miaViz, microbiomeProfiler, animalcules and more)  
+>    * Seurat (R) and ScanPy (Python) Single Cell RNA Sequence Downstream Analysis  
 
 ### Database Development (75% Completed)
 
-Carotenoid Cleavage Dioxygenases (CCD) Database 
->   * Developed using Responsive Bootstrap Template, JavaScript Libaries, PHP, MySQL Database, and CSS
->   * Database Link: [http://ccd-db.vit.ac.in/home/index.html]
+Carotenoid Cleavage Dioxygenases (CCD) Database  
+>   * Developed using Responsive Bootstrap Template, JavaScript Libaries, PHP, MySQL Database, and CSS  
+>   * Database Link: [http://ccd-db.vit.ac.in/home/index.html]  
 
 ### Paper Publications
 
