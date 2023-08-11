@@ -219,6 +219,12 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 
 ### Work Experience
 
+> <img src="https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology#/media/File:Vellore_Institute_of_Technology_seal_2017.svg" width = 20px height = 20px>
+> Post Doctoral Research Associate (Grade III)
+> Vellore Institute of Technology · Full-time
+> June 2022 - Present · 1 yr
+> Vellore, Tamil Nadu, India
+
 > <img src="https://media-exp1.licdn.com/dms/image/C560BAQEMCO6tDM19WQ/company-logo_100_100/0/1604467435881?e=1656547200&v=beta&t=9NFaFY-Wg1gQuzkt5pMUDdMhr_C_uMZYCnjrJRuttEA" width = 20px height = 20px>
 > Assistant Professor
 > Saveetha Engineering College · Full-time
@@ -236,7 +242,3 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > Vellore Institute of Technology · Full-time
 > Dec 2017 - Oct 2020 · 2 yrs 11 mos
 > Vellore, Tamil Nadu, India
-
-### Infographic Resume 
-
--> [Click Here](https://drive.google.com/file/d/16aWw5bXJAi1Z35pMc-yof8QxKpOuIB4v/view?usp=sharing)
