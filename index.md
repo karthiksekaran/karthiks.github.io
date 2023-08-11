@@ -14,8 +14,6 @@ Research fellow with cognitive analytical ability, skilled in Machine Learning, 
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-1024.png" width="20" height="20" /> [GitHub](https://github.com/karthiksekaran)
 <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/stackoverflow.png" width="20" height="20" /> [StackOverflow](https://stackoverflow.com/users/7727686/karthik-sekaran)
 
-I have no Social Media Accounts (Twitter, Facebook (Meta), Snapchat, Instagram, Pinterest or anything not listed above) <img src="https://png2png.com/wp-content/uploads/2021/08/Smiley-png-3.png" width = 20px height = 20px>
-
 ### Subject Skills
 
 > Machine Learning  
