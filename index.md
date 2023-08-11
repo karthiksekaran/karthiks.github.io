@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile
 
 ### About me
-<img src = "https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1678924800&v=beta&t=AgH0OY0N8eg2s2qQAx3hAKZrYLheWA0LTVcRgc6Pt-U" width = 200px height = 200px>
+<img src = "[https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_800_800/0/1653451261944?e=1678924800&v=beta&t=AgH0OY0N8eg2s2qQAx3hAKZrYLheWA0LTVcRgc6Pt-U](https://drive.google.com/file/d/1TO6ywXIn_EKehatz2ZX7F9n2poWSxrqm/view?usp=drive_link)" width = 200px height = 200px>
 
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacoinformatics, Microbiome Studies and Multi-OMICS modelling.
 
