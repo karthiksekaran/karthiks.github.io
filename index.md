@@ -225,7 +225,7 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > June 2022 - Present · 1 yr
 > Vellore, Tamil Nadu, India
 
-> <img src="https://media-exp1.licdn.com/dms/image/C560BAQEMCO6tDM19WQ/company-logo_100_100/0/1604467435881?e=1656547200&v=beta&t=9NFaFY-Wg1gQuzkt5pMUDdMhr_C_uMZYCnjrJRuttEA" width = 20px height = 20px>
+> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/01/vitlogo-freelogovectors.net_-400x225.png?lossy=1&ssl=1&fit=400%2C225" width = 20px height = 20px>
 > Assistant Professor
 > Saveetha Engineering College · Full-time
 > Apr 2021 - Mar 2022 · 1 yr
