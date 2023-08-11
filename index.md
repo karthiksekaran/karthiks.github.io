@@ -1,7 +1,7 @@
 ## Welcome to My GitHub Profile
 
 ### About me
-<img src = "https://github.com/karthiksekaran/myprofile/blob/gh-pages/profilepic.jpg" width = 200px height = 200px>
+<img src = "https://media.licdn.com/dms/image/C4D03AQErAymrPiMVCw/profile-displayphoto-shrink_400_400/0/1653451261944?e=1697068800&v=beta&t=ek6X7FB-KRd_DS5kYg2_O27VFqTDyEvtlgfR0S22t1o" width = 200px height = 200px>
 
 Research fellow with cognitive analytical ability, skilled in Machine Learning, Natural Language Processing, Time Series Forecasting, Pattern Recognition, Pharmacoinformatics, Microbiome Studies and Multi-OMICS modelling.
 
