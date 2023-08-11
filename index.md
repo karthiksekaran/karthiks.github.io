@@ -219,7 +219,7 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 
 ### Work Experience
 
-> <img src="https://en.wikipedia.org/wiki/Vellore_Institute_of_Technology#/media/File:Vellore_Institute_of_Technology_seal_2017.svg" width = 20px height = 20px>
+> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/01/vitlogo-freelogovectors.net_-400x225.png?lossy=1&ssl=1&fit=400%2C225" width = 30px height = 20px>
 > Post Doctoral Research Associate (Grade III)
 > Vellore Institute of Technology · Full-time
 > June 2022 - Present · 1 yr
