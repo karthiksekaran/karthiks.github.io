@@ -79,6 +79,24 @@ Carotenoid Cleavage Dioxygenases (CCD) Database
 
 ### Paper Publications
 
+* **In silico network pharmacology analysis and molecular docking validation of Swasa Kudori tablet for screening druggable phytoconstituents of asthma**  
+Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S1876162323000767?via%3Dihub)
+
+* **Machine learning algorithms and computational validation of single-nucleotide polymorphisms of antioxidant enzymes and oxidative stress markers in neonates**  
+Manuscript Link : [Click Here](https://www.futuremedicine.com/doi/10.2217/bmm-2023-0051)
+
+* **In-silico network pharmacology study on Glycyrrhiza glabra: Analyzing the immune-boosting phytochemical properties of Siddha medicinal plant against COVID-19**  
+Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/pii/S1876162323000615)
+
+* **Unraveling the Dysbiosis of Vaginal Microbiome to Understand Cervical Cancer Disease Etiology—An Explainable AI Approach**  
+Manuscript Link : [Click Here](https://www.mdpi.com/2073-4425/14/4/936)
+
+* **Bioinformatics investigation on blood-based gene expressions of Alzheimer's disease revealed ORAI2 gene biomarker susceptibility: An explainable artificial intelligence-based approach**  
+Manuscript Link : [Click Here](https://link.springer.com/article/10.1007/s11011-023-01171-0)
+
+* **A systematic review of artificial intelligence-based COVID-19 modeling on multimodal genetic information**  
+Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/pii/S0079610723000159)
+
 * **Molecular modeling of C1-inhibitor as SARS-CoV-2 target identified from the immune signatures of multiple tissues: An integrated bioinformatics study**  
 Manuscript Link : [Click Here](https://onlinelibrary.wiley.com/doi/10.1002/cbf.3769)
 
