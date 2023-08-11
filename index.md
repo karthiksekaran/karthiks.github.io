@@ -231,7 +231,7 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > Apr 2021 - Mar 2022 · 1 yr
 > Chennai, Tamil Nadu, India
 
-> <img src="https://www.nicepng.com/maxp/u2w7y3i1w7w7a9o0/" width = 20px height = 20px>
+> <img src="https://static.zollege.in/public/college_data/images/logos/1471861333Capture.jpg1.jpg" width = 20px height = 20px>
 > Assistant Professor
 > Jain (Deemed-to-be University) · Full-time
 > Sep 2020 - Feb 2021 · 6 mos
