@@ -55,7 +55,8 @@ Research fellow with cognitive analytical ability, skilled in Machine Learning, 
 > 
 > Tools for Bioinformatics
 > 
->    * NCBI BLAST  
+>    * NCBI BLAST
+>    * SAMtools and BCFtools 
 >    * GeneMania  
 >    * gProfiler  
 >    * Bioconductor  
