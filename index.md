@@ -225,19 +225,19 @@ Link for all the Certificates are available -> [Click Here](https://www.linkedin
 > June 2022 - Present · 1 yr
 > Vellore, Tamil Nadu, India
 
-> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/01/vitlogo-freelogovectors.net_-400x225.png?lossy=1&ssl=1&fit=400%2C225" width = 20px height = 20px>
+> <img src="https://factstranscript.com/wp-content/uploads/2022/02/Saveetha-University-Transcript.jpg" width = 20px height = 20px>
 > Assistant Professor
 > Saveetha Engineering College · Full-time
 > Apr 2021 - Mar 2022 · 1 yr
 > Chennai, Tamil Nadu, India
 
-> <img src="https://media-exp1.licdn.com/dms/image/C560BAQFl1P_Atk4SqA/company-logo_100_100/0/1597753189311?e=1656547200&v=beta&t=htlitn1lGjH6gyz4-sKU069GjAze0TO4Deej4Hlf22Y" width = 20px height = 20px>
+> <img src="https://www.nicepng.com/maxp/u2w7y3i1w7w7a9o0/" width = 20px height = 20px>
 > Assistant Professor
 > Jain (Deemed-to-be University) · Full-time
 > Sep 2020 - Feb 2021 · 6 mos
 > Bengaluru, Karnataka, India
 
-> <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGgTYgPZiPkaA/company-logo_100_100/0/1519933404766?e=1656547200&v=beta&t=FkmnQkhVdCzGkivf8KuyRM6jXAUjIbRkb6WHRyzW-6E" width = 20px height = 20px>
+> <img src="https://ww1.freelogovectors.net/wp-content/uploads/2023/01/vitlogo-freelogovectors.net_-400x225.png?lossy=1&ssl=1&fit=400%2C225" width = 30px height = 20px>
 > Staff Research Associate
 > Vellore Institute of Technology · Full-time
 > Dec 2017 - Oct 2020 · 2 yrs 11 mos
