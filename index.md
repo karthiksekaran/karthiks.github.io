@@ -80,6 +80,9 @@ Carotenoid Cleavage Dioxygenases (CCD) Database
 
 ### Paper Publications
 
+* **Airway and Oral microbiome profiling of SARS-CoV-2 infected asthma and non-asthma cases revealing alterations-A pulmonary microbial investigation**  
+Manuscript Link : [Click Here](https://pubmed.ncbi.nlm.nih.gov/37590197/)
+
 * **In silico network pharmacology analysis and molecular docking validation of Swasa Kudori tablet for screening druggable phytoconstituents of asthma**  
 Manuscript Link : [Click Here](https://www.sciencedirect.com/science/article/abs/pii/S1876162323000767?via%3Dihub)
 
